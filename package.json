@@ -1,0 +1,17 @@
+{
+  "name": "crx-patterns",
+  "version": "0.1.0",
+  "description": "check URLs against Chrome Extension patterns",
+  "main": "matchPatterns.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "",
+  "keywords": [
+    "chrome",
+    "extension",
+    "urls"
+  ],
+  "author": "alunny",
+  "license": "BSD"
+}
