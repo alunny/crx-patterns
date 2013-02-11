@@ -1,4 +1,4 @@
-# Match Patterns
+# crx-patterns
 
 Simple lib to work with Chrome URL Match Patterns schemes. Should work in Node
 or browsers.
